@@ -33,7 +33,8 @@ compliment<- c("You look hot today.", "What is it that gives you that sparkle?",
                "You're great at figuring stuff out","Any team would be lucky to have you on it.",
                "You're even better than unicorns because you're real.",
                "You're a gift to those around you.","You never cease to amaze me.",
-               "You have a heart of gold.", "You're a really strong person.","You inspire me.")
+               "You have a heart of gold.", "You're a really strong person.","You inspire me.","You always make me feel better.","I am so happy we met.",
+              "What would I do without you.", "You know just what to say.", "Your pastries are the best!", "You have the coolest name.")
 
 if(x == "please"){sample(compliment, 1)}
 else{print("I guess SOMEONE is pretty full of themselves...")}
